@@ -1,0 +1,859 @@
+﻿Section,Machine,Type_Defaut,Nombre_Defauts,Section_mm2_code
+P3S0035,LE03,Aspect,0,35
+P3S0035,LE03,Centrage,14,35
+P3S0035,LE03,conipack cassé,1,35
+P3S0035,LE03,Diametre Exterieur hors tolerance,2,35
+P3S0035,LE03,Fausse declaration de soudure,15,35
+P3S0035,LE03,Frottement,0,35
+P3S0035,LE03,Intersetice - PVC Bleeding,13,35
+P3S0035,LE03,Les Grains,1,35
+P3S0035,LE03,Oxydation,0,35
+P3S0035,LE03,Plusieur Spark,0,35
+P3S0035,LE03,Porosité,4,35
+P3S0035,LE03,probleme de Métrage,0,35
+P3S0035,LE03,Problème de strie,20,35
+P3S0035,LE03,probleme OF,1,35
+P3S0035,LE03,pvc FT3B1 au lieu FT3A1,0,35
+P3S0035,LE03,Resistance hors tolerance,12,35
+P3S0035,LE03,SANS BOUT,0,35
+P3S0035,LE03,Sans Rapprot,28,35
+P3S0035,LE03,Soudure avec rapport zéro défaut,0,35
+P3S0035,LE03,Touché Par Grapin,0,35
+P3S0035,LE03,Trancannage,22,35
+P3S0035,LE03,variation couleur,5,35
+P3S0035,LE04,Aspect,3,35
+P3S0035,LE04,Centrage,9,35
+P3S0035,LE04,conipack cassé,0,35
+P3S0035,LE04,Diametre Exterieur hors tolerance,6,35
+P3S0035,LE04,Fausse declaration de soudure,0,35
+P3S0035,LE04,Frottement,0,35
+P3S0035,LE04,Intersetice - PVC Bleeding,18,35
+P3S0035,LE04,Les Grains,1,35
+P3S0035,LE04,Oxydation,0,35
+P3S0035,LE04,Plusieur Spark,0,35
+P3S0035,LE04,Porosité,1,35
+P3S0035,LE04,probleme de Métrage,0,35
+P3S0035,LE04,Problème de strie,1,35
+P3S0035,LE04,probleme OF,0,35
+P3S0035,LE04,pvc FT3B1 au lieu FT3A1,0,35
+P3S0035,LE04,Resistance hors tolerance,14,35
+P3S0035,LE04,SANS BOUT,1,35
+P3S0035,LE04,Sans Rapprot,22,35
+P3S0035,LE04,Soudure avec rapport zéro défaut,0,35
+P3S0035,LE04,Touché Par Grapin,0,35
+P3S0035,LE04,Trancannage,46,35
+P3S0035,LE04,variation couleur,0,35
+P3S0035,LE05,Aspect,0,35
+P3S0035,LE05,Centrage,4,35
+P3S0035,LE05,conipack cassé,0,35
+P3S0035,LE05,Diametre Exterieur hors tolerance,0,35
+P3S0035,LE05,Fausse declaration de soudure,3,35
+P3S0035,LE05,Frottement,0,35
+P3S0035,LE05,Intersetice - PVC Bleeding,9,35
+P3S0035,LE05,Les Grains,0,35
+P3S0035,LE05,Oxydation,0,35
+P3S0035,LE05,Plusieur Spark,0,35
+P3S0035,LE05,Porosité,2,35
+P3S0035,LE05,probleme de Métrage,1,35
+P3S0035,LE05,Problème de strie,0,35
+P3S0035,LE05,probleme OF,0,35
+P3S0035,LE05,pvc FT3B1 au lieu FT3A1,0,35
+P3S0035,LE05,Resistance hors tolerance,30,35
+P3S0035,LE05,SANS BOUT,0,35
+P3S0035,LE05,Sans Rapprot,18,35
+P3S0035,LE05,Soudure avec rapport zéro défaut,0,35
+P3S0035,LE05,Touché Par Grapin,1,35
+P3S0035,LE05,Trancannage,5,35
+P3S0035,LE05,variation couleur,0,35
+P3S0035,LE06,Aspect,0,35
+P3S0035,LE06,Centrage,0,35
+P3S0035,LE06,conipack cassé,0,35
+P3S0035,LE06,Diametre Exterieur hors tolerance,0,35
+P3S0035,LE06,Fausse declaration de soudure,0,35
+P3S0035,LE06,Frottement,0,35
+P3S0035,LE06,Intersetice - PVC Bleeding,0,35
+P3S0035,LE06,Les Grains,0,35
+P3S0035,LE06,Oxydation,0,35
+P3S0035,LE06,Plusieur Spark,0,35
+P3S0035,LE06,Porosité,0,35
+P3S0035,LE06,probleme de Métrage,0,35
+P3S0035,LE06,Problème de strie,0,35
+P3S0035,LE06,probleme OF,0,35
+P3S0035,LE06,pvc FT3B1 au lieu FT3A1,0,35
+P3S0035,LE06,Resistance hors tolerance,0,35
+P3S0035,LE06,SANS BOUT,0,35
+P3S0035,LE06,Sans Rapprot,3,35
+P3S0035,LE06,Soudure avec rapport zéro défaut,0,35
+P3S0035,LE06,Touché Par Grapin,0,35
+P3S0035,LE06,Trancannage,0,35
+P3S0035,LE06,variation couleur,0,35
+P3S0035,LE08,Aspect,0,35
+P3S0035,LE08,Centrage,14,35
+P3S0035,LE08,conipack cassé,1,35
+P3S0035,LE08,Diametre Exterieur hors tolerance,38,35
+P3S0035,LE08,Fausse declaration de soudure,7,35
+P3S0035,LE08,Frottement,0,35
+P3S0035,LE08,Intersetice - PVC Bleeding,14,35
+P3S0035,LE08,Les Grains,30,35
+P3S0035,LE08,Oxydation,0,35
+P3S0035,LE08,Plusieur Spark,0,35
+P3S0035,LE08,Porosité,0,35
+P3S0035,LE08,probleme de Métrage,0,35
+P3S0035,LE08,Problème de strie,0,35
+P3S0035,LE08,probleme OF,0,35
+P3S0035,LE08,pvc FT3B1 au lieu FT3A1,0,35
+P3S0035,LE08,Resistance hors tolerance,4,35
+P3S0035,LE08,SANS BOUT,0,35
+P3S0035,LE08,Sans Rapprot,24,35
+P3S0035,LE08,Soudure avec rapport zéro défaut,0,35
+P3S0035,LE08,Touché Par Grapin,0,35
+P3S0035,LE08,Trancannage,7,35
+P3S0035,LE08,variation couleur,0,35
+P3S0050,LE02,Aspect,0,50
+P3S0050,LE02,Centrage,0,50
+P3S0050,LE02,conipack cassé,0,50
+P3S0050,LE02,Diametre Exterieur hors tolerance,0,50
+P3S0050,LE02,Fausse declaration de soudure,7,50
+P3S0050,LE02,Frottement,0,50
+P3S0050,LE02,Intersetice - PVC Bleeding,5,50
+P3S0050,LE02,Les Grains,1,50
+P3S0050,LE02,Oxydation,0,50
+P3S0050,LE02,Plusieur Spark,0,50
+P3S0050,LE02,Porosité,0,50
+P3S0050,LE02,probleme de Métrage,0,50
+P3S0050,LE02,Problème de strie,0,50
+P3S0050,LE02,probleme OF,0,50
+P3S0050,LE02,pvc FT3B1 au lieu FT3A1,0,50
+P3S0050,LE02,Resistance hors tolerance,0,50
+P3S0050,LE02,SANS BOUT,0,50
+P3S0050,LE02,Sans Rapprot,10,50
+P3S0050,LE02,Soudure avec rapport zéro défaut,0,50
+P3S0050,LE02,Touché Par Grapin,0,50
+P3S0050,LE02,Trancannage,0,50
+P3S0050,LE02,variation couleur,0,50
+P3S0050,LE03,Aspect,0,50
+P3S0050,LE03,Centrage,1,50
+P3S0050,LE03,conipack cassé,1,50
+P3S0050,LE03,Diametre Exterieur hors tolerance,2,50
+P3S0050,LE03,Fausse declaration de soudure,21,50
+P3S0050,LE03,Frottement,0,50
+P3S0050,LE03,Intersetice - PVC Bleeding,27,50
+P3S0050,LE03,Les Grains,1,50
+P3S0050,LE03,Oxydation,0,50
+P3S0050,LE03,Plusieur Spark,1,50
+P3S0050,LE03,Porosité,0,50
+P3S0050,LE03,probleme de Métrage,0,50
+P3S0050,LE03,Problème de strie,11,50
+P3S0050,LE03,probleme OF,0,50
+P3S0050,LE03,pvc FT3B1 au lieu FT3A1,0,50
+P3S0050,LE03,Resistance hors tolerance,0,50
+P3S0050,LE03,SANS BOUT,1,50
+P3S0050,LE03,Sans Rapprot,22,50
+P3S0050,LE03,Soudure avec rapport zéro défaut,2,50
+P3S0050,LE03,Touché Par Grapin,0,50
+P3S0050,LE03,Trancannage,7,50
+P3S0050,LE03,variation couleur,2,50
+P3S0050,LE04,Aspect,0,50
+P3S0050,LE04,Centrage,3,50
+P3S0050,LE04,conipack cassé,0,50
+P3S0050,LE04,Diametre Exterieur hors tolerance,0,50
+P3S0050,LE04,Fausse declaration de soudure,0,50
+P3S0050,LE04,Frottement,0,50
+P3S0050,LE04,Intersetice - PVC Bleeding,11,50
+P3S0050,LE04,Les Grains,0,50
+P3S0050,LE04,Oxydation,0,50
+P3S0050,LE04,Plusieur Spark,0,50
+P3S0050,LE04,Porosité,0,50
+P3S0050,LE04,probleme de Métrage,0,50
+P3S0050,LE04,Problème de strie,0,50
+P3S0050,LE04,probleme OF,0,50
+P3S0050,LE04,pvc FT3B1 au lieu FT3A1,0,50
+P3S0050,LE04,Resistance hors tolerance,0,50
+P3S0050,LE04,SANS BOUT,0,50
+P3S0050,LE04,Sans Rapprot,6,50
+P3S0050,LE04,Soudure avec rapport zéro défaut,0,50
+P3S0050,LE04,Touché Par Grapin,0,50
+P3S0050,LE04,Trancannage,5,50
+P3S0050,LE04,variation couleur,0,50
+P3S0050,LE05,Aspect,0,50
+P3S0050,LE05,Centrage,0,50
+P3S0050,LE05,conipack cassé,0,50
+P3S0050,LE05,Diametre Exterieur hors tolerance,0,50
+P3S0050,LE05,Fausse declaration de soudure,1,50
+P3S0050,LE05,Frottement,0,50
+P3S0050,LE05,Intersetice - PVC Bleeding,7,50
+P3S0050,LE05,Les Grains,2,50
+P3S0050,LE05,Oxydation,0,50
+P3S0050,LE05,Plusieur Spark,0,50
+P3S0050,LE05,Porosité,0,50
+P3S0050,LE05,probleme de Métrage,0,50
+P3S0050,LE05,Problème de strie,0,50
+P3S0050,LE05,probleme OF,0,50
+P3S0050,LE05,pvc FT3B1 au lieu FT3A1,7,50
+P3S0050,LE05,Resistance hors tolerance,0,50
+P3S0050,LE05,SANS BOUT,2,50
+P3S0050,LE05,Sans Rapprot,14,50
+P3S0050,LE05,Soudure avec rapport zéro défaut,0,50
+P3S0050,LE05,Touché Par Grapin,0,50
+P3S0050,LE05,Trancannage,6,50
+P3S0050,LE05,variation couleur,0,50
+P3S0050,LE06,Aspect,0,50
+P3S0050,LE06,Centrage,0,50
+P3S0050,LE06,conipack cassé,0,50
+P3S0050,LE06,Diametre Exterieur hors tolerance,0,50
+P3S0050,LE06,Fausse declaration de soudure,0,50
+P3S0050,LE06,Frottement,0,50
+P3S0050,LE06,Intersetice - PVC Bleeding,0,50
+P3S0050,LE06,Les Grains,0,50
+P3S0050,LE06,Oxydation,0,50
+P3S0050,LE06,Plusieur Spark,0,50
+P3S0050,LE06,Porosité,0,50
+P3S0050,LE06,probleme de Métrage,0,50
+P3S0050,LE06,Problème de strie,0,50
+P3S0050,LE06,probleme OF,0,50
+P3S0050,LE06,pvc FT3B1 au lieu FT3A1,0,50
+P3S0050,LE06,Resistance hors tolerance,0,50
+P3S0050,LE06,SANS BOUT,0,50
+P3S0050,LE06,Sans Rapprot,1,50
+P3S0050,LE06,Soudure avec rapport zéro défaut,0,50
+P3S0050,LE06,Touché Par Grapin,0,50
+P3S0050,LE06,Trancannage,0,50
+P3S0050,LE06,variation couleur,0,50
+P3S0050,LE08,Aspect,0,50
+P3S0050,LE08,Centrage,0,50
+P3S0050,LE08,conipack cassé,0,50
+P3S0050,LE08,Diametre Exterieur hors tolerance,28,50
+P3S0050,LE08,Fausse declaration de soudure,5,50
+P3S0050,LE08,Frottement,0,50
+P3S0050,LE08,Intersetice - PVC Bleeding,0,50
+P3S0050,LE08,Les Grains,0,50
+P3S0050,LE08,Oxydation,0,50
+P3S0050,LE08,Plusieur Spark,0,50
+P3S0050,LE08,Porosité,0,50
+P3S0050,LE08,probleme de Métrage,0,50
+P3S0050,LE08,Problème de strie,0,50
+P3S0050,LE08,probleme OF,0,50
+P3S0050,LE08,pvc FT3B1 au lieu FT3A1,0,50
+P3S0050,LE08,Resistance hors tolerance,0,50
+P3S0050,LE08,SANS BOUT,0,50
+P3S0050,LE08,Sans Rapprot,6,50
+P3S0050,LE08,Soudure avec rapport zéro défaut,0,50
+P3S0050,LE08,Touché Par Grapin,0,50
+P3S0050,LE08,Trancannage,5,50
+P3S0050,LE08,variation couleur,0,50
+P3S0075,LE02,Aspect,1,75
+P3S0075,LE02,Centrage,1,75
+P3S0075,LE02,conipack cassé,0,75
+P3S0075,LE02,Diametre Exterieur hors tolerance,5,75
+P3S0075,LE02,Fausse declaration de soudure,3,75
+P3S0075,LE02,Frottement,0,75
+P3S0075,LE02,Intersetice - PVC Bleeding,0,75
+P3S0075,LE02,Les Grains,0,75
+P3S0075,LE02,Oxydation,0,75
+P3S0075,LE02,Plusieur Spark,0,75
+P3S0075,LE02,Porosité,0,75
+P3S0075,LE02,probleme de Métrage,0,75
+P3S0075,LE02,Problème de strie,0,75
+P3S0075,LE02,probleme OF,0,75
+P3S0075,LE02,pvc FT3B1 au lieu FT3A1,0,75
+P3S0075,LE02,Resistance hors tolerance,0,75
+P3S0075,LE02,SANS BOUT,0,75
+P3S0075,LE02,Sans Rapprot,6,75
+P3S0075,LE02,Soudure avec rapport zéro défaut,1,75
+P3S0075,LE02,Touché Par Grapin,0,75
+P3S0075,LE02,Trancannage,0,75
+P3S0075,LE02,variation couleur,1,75
+P3S0075,LE03,Aspect,0,75
+P3S0075,LE03,Centrage,23,75
+P3S0075,LE03,conipack cassé,0,75
+P3S0075,LE03,Diametre Exterieur hors tolerance,2,75
+P3S0075,LE03,Fausse declaration de soudure,3,75
+P3S0075,LE03,Frottement,0,75
+P3S0075,LE03,Intersetice - PVC Bleeding,0,75
+P3S0075,LE03,Les Grains,0,75
+P3S0075,LE03,Oxydation,0,75
+P3S0075,LE03,Plusieur Spark,0,75
+P3S0075,LE03,Porosité,0,75
+P3S0075,LE03,probleme de Métrage,0,75
+P3S0075,LE03,Problème de strie,0,75
+P3S0075,LE03,probleme OF,0,75
+P3S0075,LE03,pvc FT3B1 au lieu FT3A1,0,75
+P3S0075,LE03,Resistance hors tolerance,0,75
+P3S0075,LE03,SANS BOUT,0,75
+P3S0075,LE03,Sans Rapprot,6,75
+P3S0075,LE03,Soudure avec rapport zéro défaut,0,75
+P3S0075,LE03,Touché Par Grapin,0,75
+P3S0075,LE03,Trancannage,2,75
+P3S0075,LE03,variation couleur,2,75
+P3S0075,LE04,Aspect,0,75
+P3S0075,LE04,Centrage,1,75
+P3S0075,LE04,conipack cassé,0,75
+P3S0075,LE04,Diametre Exterieur hors tolerance,2,75
+P3S0075,LE04,Fausse declaration de soudure,0,75
+P3S0075,LE04,Frottement,2,75
+P3S0075,LE04,Intersetice - PVC Bleeding,0,75
+P3S0075,LE04,Les Grains,0,75
+P3S0075,LE04,Oxydation,0,75
+P3S0075,LE04,Plusieur Spark,0,75
+P3S0075,LE04,Porosité,0,75
+P3S0075,LE04,probleme de Métrage,0,75
+P3S0075,LE04,Problème de strie,0,75
+P3S0075,LE04,probleme OF,0,75
+P3S0075,LE04,pvc FT3B1 au lieu FT3A1,0,75
+P3S0075,LE04,Resistance hors tolerance,0,75
+P3S0075,LE04,SANS BOUT,0,75
+P3S0075,LE04,Sans Rapprot,2,75
+P3S0075,LE04,Soudure avec rapport zéro défaut,0,75
+P3S0075,LE04,Touché Par Grapin,0,75
+P3S0075,LE04,Trancannage,3,75
+P3S0075,LE04,variation couleur,1,75
+P3S0075,LE05,Aspect,0,75
+P3S0075,LE05,Centrage,0,75
+P3S0075,LE05,conipack cassé,0,75
+P3S0075,LE05,Diametre Exterieur hors tolerance,0,75
+P3S0075,LE05,Fausse declaration de soudure,0,75
+P3S0075,LE05,Frottement,0,75
+P3S0075,LE05,Intersetice - PVC Bleeding,0,75
+P3S0075,LE05,Les Grains,1,75
+P3S0075,LE05,Oxydation,1,75
+P3S0075,LE05,Plusieur Spark,0,75
+P3S0075,LE05,Porosité,0,75
+P3S0075,LE05,probleme de Métrage,0,75
+P3S0075,LE05,Problème de strie,0,75
+P3S0075,LE05,probleme OF,0,75
+P3S0075,LE05,pvc FT3B1 au lieu FT3A1,0,75
+P3S0075,LE05,Resistance hors tolerance,0,75
+P3S0075,LE05,SANS BOUT,1,75
+P3S0075,LE05,Sans Rapprot,4,75
+P3S0075,LE05,Soudure avec rapport zéro défaut,0,75
+P3S0075,LE05,Touché Par Grapin,1,75
+P3S0075,LE05,Trancannage,2,75
+P3S0075,LE05,variation couleur,0,75
+P3S0075,LE08,Aspect,0,75
+P3S0075,LE08,Centrage,0,75
+P3S0075,LE08,conipack cassé,0,75
+P3S0075,LE08,Diametre Exterieur hors tolerance,0,75
+P3S0075,LE08,Fausse declaration de soudure,1,75
+P3S0075,LE08,Frottement,0,75
+P3S0075,LE08,Intersetice - PVC Bleeding,0,75
+P3S0075,LE08,Les Grains,0,75
+P3S0075,LE08,Oxydation,0,75
+P3S0075,LE08,Plusieur Spark,0,75
+P3S0075,LE08,Porosité,0,75
+P3S0075,LE08,probleme de Métrage,0,75
+P3S0075,LE08,Problème de strie,0,75
+P3S0075,LE08,probleme OF,0,75
+P3S0075,LE08,pvc FT3B1 au lieu FT3A1,0,75
+P3S0075,LE08,Resistance hors tolerance,0,75
+P3S0075,LE08,SANS BOUT,0,75
+P3S0075,LE08,Sans Rapprot,0,75
+P3S0075,LE08,Soudure avec rapport zéro défaut,0,75
+P3S0075,LE08,Touché Par Grapin,0,75
+P3S0075,LE08,Trancannage,0,75
+P3S0075,LE08,variation couleur,0,75
+P3S0100,LE02,Aspect,0,100
+P3S0100,LE02,Centrage,1,100
+P3S0100,LE02,conipack cassé,0,100
+P3S0100,LE02,Diametre Exterieur hors tolerance,0,100
+P3S0100,LE02,Fausse declaration de soudure,13,100
+P3S0100,LE02,Frottement,0,100
+P3S0100,LE02,Intersetice - PVC Bleeding,1,100
+P3S0100,LE02,Les Grains,0,100
+P3S0100,LE02,Oxydation,0,100
+P3S0100,LE02,Plusieur Spark,0,100
+P3S0100,LE02,Porosité,0,100
+P3S0100,LE02,probleme de Métrage,2,100
+P3S0100,LE02,Problème de strie,0,100
+P3S0100,LE02,probleme OF,0,100
+P3S0100,LE02,pvc FT3B1 au lieu FT3A1,0,100
+P3S0100,LE02,Resistance hors tolerance,0,100
+P3S0100,LE02,SANS BOUT,0,100
+P3S0100,LE02,Sans Rapprot,3,100
+P3S0100,LE02,Soudure avec rapport zéro défaut,0,100
+P3S0100,LE02,Touché Par Grapin,0,100
+P3S0100,LE02,Trancannage,14,100
+P3S0100,LE02,variation couleur,0,100
+P3S0100,LE03,Aspect,0,100
+P3S0100,LE03,Centrage,0,100
+P3S0100,LE03,conipack cassé,0,100
+P3S0100,LE03,Diametre Exterieur hors tolerance,2,100
+P3S0100,LE03,Fausse declaration de soudure,4,100
+P3S0100,LE03,Frottement,0,100
+P3S0100,LE03,Intersetice - PVC Bleeding,0,100
+P3S0100,LE03,Les Grains,0,100
+P3S0100,LE03,Oxydation,1,100
+P3S0100,LE03,Plusieur Spark,0,100
+P3S0100,LE03,Porosité,13,100
+P3S0100,LE03,probleme de Métrage,0,100
+P3S0100,LE03,Problème de strie,0,100
+P3S0100,LE03,probleme OF,0,100
+P3S0100,LE03,pvc FT3B1 au lieu FT3A1,0,100
+P3S0100,LE03,Resistance hors tolerance,0,100
+P3S0100,LE03,SANS BOUT,0,100
+P3S0100,LE03,Sans Rapprot,2,100
+P3S0100,LE03,Soudure avec rapport zéro défaut,0,100
+P3S0100,LE03,Touché Par Grapin,0,100
+P3S0100,LE03,Trancannage,1,100
+P3S0100,LE03,variation couleur,2,100
+P3S0100,LE04,Aspect,0,100
+P3S0100,LE04,Centrage,0,100
+P3S0100,LE04,conipack cassé,0,100
+P3S0100,LE04,Diametre Exterieur hors tolerance,1,100
+P3S0100,LE04,Fausse declaration de soudure,0,100
+P3S0100,LE04,Frottement,0,100
+P3S0100,LE04,Intersetice - PVC Bleeding,1,100
+P3S0100,LE04,Les Grains,0,100
+P3S0100,LE04,Oxydation,0,100
+P3S0100,LE04,Plusieur Spark,0,100
+P3S0100,LE04,Porosité,0,100
+P3S0100,LE04,probleme de Métrage,0,100
+P3S0100,LE04,Problème de strie,0,100
+P3S0100,LE04,probleme OF,0,100
+P3S0100,LE04,pvc FT3B1 au lieu FT3A1,0,100
+P3S0100,LE04,Resistance hors tolerance,0,100
+P3S0100,LE04,SANS BOUT,0,100
+P3S0100,LE04,Sans Rapprot,8,100
+P3S0100,LE04,Soudure avec rapport zéro défaut,0,100
+P3S0100,LE04,Touché Par Grapin,0,100
+P3S0100,LE04,Trancannage,0,100
+P3S0100,LE04,variation couleur,0,100
+P3S0100,LE05,Aspect,0,100
+P3S0100,LE05,Centrage,0,100
+P3S0100,LE05,conipack cassé,0,100
+P3S0100,LE05,Diametre Exterieur hors tolerance,0,100
+P3S0100,LE05,Fausse declaration de soudure,0,100
+P3S0100,LE05,Frottement,0,100
+P3S0100,LE05,Intersetice - PVC Bleeding,0,100
+P3S0100,LE05,Les Grains,0,100
+P3S0100,LE05,Oxydation,0,100
+P3S0100,LE05,Plusieur Spark,0,100
+P3S0100,LE05,Porosité,0,100
+P3S0100,LE05,probleme de Métrage,0,100
+P3S0100,LE05,Problème de strie,0,100
+P3S0100,LE05,probleme OF,0,100
+P3S0100,LE05,pvc FT3B1 au lieu FT3A1,0,100
+P3S0100,LE05,Resistance hors tolerance,0,100
+P3S0100,LE05,SANS BOUT,1,100
+P3S0100,LE05,Sans Rapprot,3,100
+P3S0100,LE05,Soudure avec rapport zéro défaut,0,100
+P3S0100,LE05,Touché Par Grapin,0,100
+P3S0100,LE05,Trancannage,1,100
+P3S0100,LE05,variation couleur,1,100
+P3S0150,LE02,Aspect,0,150
+P3S0150,LE02,Centrage,0,150
+P3S0150,LE02,conipack cassé,1,150
+P3S0150,LE02,Diametre Exterieur hors tolerance,1,150
+P3S0150,LE02,Fausse declaration de soudure,7,150
+P3S0150,LE02,Frottement,0,150
+P3S0150,LE02,Intersetice - PVC Bleeding,1,150
+P3S0150,LE02,Les Grains,0,150
+P3S0150,LE02,Oxydation,0,150
+P3S0150,LE02,Plusieur Spark,0,150
+P3S0150,LE02,Porosité,0,150
+P3S0150,LE02,probleme de Métrage,0,150
+P3S0150,LE02,Problème de strie,0,150
+P3S0150,LE02,probleme OF,2,150
+P3S0150,LE02,pvc FT3B1 au lieu FT3A1,0,150
+P3S0150,LE02,Resistance hors tolerance,0,150
+P3S0150,LE02,SANS BOUT,1,150
+P3S0150,LE02,Sans Rapprot,9,150
+P3S0150,LE02,Soudure avec rapport zéro défaut,1,150
+P3S0150,LE02,Touché Par Grapin,0,150
+P3S0150,LE02,Trancannage,2,150
+P3S0150,LE02,variation couleur,0,150
+P3S0150,LE03,Aspect,3,150
+P3S0150,LE03,Centrage,0,150
+P3S0150,LE03,conipack cassé,0,150
+P3S0150,LE03,Diametre Exterieur hors tolerance,0,150
+P3S0150,LE03,Fausse declaration de soudure,2,150
+P3S0150,LE03,Frottement,0,150
+P3S0150,LE03,Intersetice - PVC Bleeding,0,150
+P3S0150,LE03,Les Grains,1,150
+P3S0150,LE03,Oxydation,0,150
+P3S0150,LE03,Plusieur Spark,0,150
+P3S0150,LE03,Porosité,0,150
+P3S0150,LE03,probleme de Métrage,0,150
+P3S0150,LE03,Problème de strie,0,150
+P3S0150,LE03,probleme OF,0,150
+P3S0150,LE03,pvc FT3B1 au lieu FT3A1,0,150
+P3S0150,LE03,Resistance hors tolerance,0,150
+P3S0150,LE03,SANS BOUT,0,150
+P3S0150,LE03,Sans Rapprot,3,150
+P3S0150,LE03,Soudure avec rapport zéro défaut,0,150
+P3S0150,LE03,Touché Par Grapin,0,150
+P3S0150,LE03,Trancannage,3,150
+P3S0150,LE03,variation couleur,0,150
+P3S0150,LE04,Aspect,0,150
+P3S0150,LE04,Centrage,0,150
+P3S0150,LE04,conipack cassé,0,150
+P3S0150,LE04,Diametre Exterieur hors tolerance,0,150
+P3S0150,LE04,Fausse declaration de soudure,0,150
+P3S0150,LE04,Frottement,0,150
+P3S0150,LE04,Intersetice - PVC Bleeding,0,150
+P3S0150,LE04,Les Grains,1,150
+P3S0150,LE04,Oxydation,0,150
+P3S0150,LE04,Plusieur Spark,0,150
+P3S0150,LE04,Porosité,0,150
+P3S0150,LE04,probleme de Métrage,0,150
+P3S0150,LE04,Problème de strie,0,150
+P3S0150,LE04,probleme OF,0,150
+P3S0150,LE04,pvc FT3B1 au lieu FT3A1,0,150
+P3S0150,LE04,Resistance hors tolerance,0,150
+P3S0150,LE04,SANS BOUT,0,150
+P3S0150,LE04,Sans Rapprot,3,150
+P3S0150,LE04,Soudure avec rapport zéro défaut,0,150
+P3S0150,LE04,Touché Par Grapin,0,150
+P3S0150,LE04,Trancannage,1,150
+P3S0150,LE04,variation couleur,0,150
+P3S0150,LE05,Aspect,0,150
+P3S0150,LE05,Centrage,0,150
+P3S0150,LE05,conipack cassé,0,150
+P3S0150,LE05,Diametre Exterieur hors tolerance,0,150
+P3S0150,LE05,Fausse declaration de soudure,0,150
+P3S0150,LE05,Frottement,0,150
+P3S0150,LE05,Intersetice - PVC Bleeding,1,150
+P3S0150,LE05,Les Grains,4,150
+P3S0150,LE05,Oxydation,0,150
+P3S0150,LE05,Plusieur Spark,0,150
+P3S0150,LE05,Porosité,0,150
+P3S0150,LE05,probleme de Métrage,0,150
+P3S0150,LE05,Problème de strie,0,150
+P3S0150,LE05,probleme OF,0,150
+P3S0150,LE05,pvc FT3B1 au lieu FT3A1,0,150
+P3S0150,LE05,Resistance hors tolerance,0,150
+P3S0150,LE05,SANS BOUT,0,150
+P3S0150,LE05,Sans Rapprot,1,150
+P3S0150,LE05,Soudure avec rapport zéro défaut,0,150
+P3S0150,LE05,Touché Par Grapin,0,150
+P3S0150,LE05,Trancannage,0,150
+P3S0150,LE05,variation couleur,0,150
+P3S0200,LE02,Aspect,6,200
+P3S0200,LE02,Centrage,0,200
+P3S0200,LE02,conipack cassé,0,200
+P3S0200,LE02,Diametre Exterieur hors tolerance,0,200
+P3S0200,LE02,Fausse declaration de soudure,7,200
+P3S0200,LE02,Frottement,0,200
+P3S0200,LE02,Intersetice - PVC Bleeding,9,200
+P3S0200,LE02,Les Grains,0,200
+P3S0200,LE02,Oxydation,0,200
+P3S0200,LE02,Plusieur Spark,0,200
+P3S0200,LE02,Porosité,0,200
+P3S0200,LE02,probleme de Métrage,0,200
+P3S0200,LE02,Problème de strie,0,200
+P3S0200,LE02,probleme OF,10,200
+P3S0200,LE02,pvc FT3B1 au lieu FT3A1,0,200
+P3S0200,LE02,Resistance hors tolerance,0,200
+P3S0200,LE02,SANS BOUT,0,200
+P3S0200,LE02,Sans Rapprot,10,200
+P3S0200,LE02,Soudure avec rapport zéro défaut,2,200
+P3S0200,LE02,Touché Par Grapin,2,200
+P3S0200,LE02,Trancannage,2,200
+P3S0200,LE02,variation couleur,0,200
+P3S0200,LE03,Aspect,2,200
+P3S0200,LE03,Centrage,5,200
+P3S0200,LE03,conipack cassé,0,200
+P3S0200,LE03,Diametre Exterieur hors tolerance,8,200
+P3S0200,LE03,Fausse declaration de soudure,7,200
+P3S0200,LE03,Frottement,0,200
+P3S0200,LE03,Intersetice - PVC Bleeding,7,200
+P3S0200,LE03,Les Grains,1,200
+P3S0200,LE03,Oxydation,0,200
+P3S0200,LE03,Plusieur Spark,0,200
+P3S0200,LE03,Porosité,0,200
+P3S0200,LE03,probleme de Métrage,0,200
+P3S0200,LE03,Problème de strie,0,200
+P3S0200,LE03,probleme OF,0,200
+P3S0200,LE03,pvc FT3B1 au lieu FT3A1,0,200
+P3S0200,LE03,Resistance hors tolerance,0,200
+P3S0200,LE03,SANS BOUT,0,200
+P3S0200,LE03,Sans Rapprot,12,200
+P3S0200,LE03,Soudure avec rapport zéro défaut,0,200
+P3S0200,LE03,Touché Par Grapin,0,200
+P3S0200,LE03,Trancannage,4,200
+P3S0200,LE03,variation couleur,8,200
+P3S0200,LE04,Aspect,0,200
+P3S0200,LE04,Centrage,0,200
+P3S0200,LE04,conipack cassé,0,200
+P3S0200,LE04,Diametre Exterieur hors tolerance,1,200
+P3S0200,LE04,Fausse declaration de soudure,0,200
+P3S0200,LE04,Frottement,0,200
+P3S0200,LE04,Intersetice - PVC Bleeding,0,200
+P3S0200,LE04,Les Grains,0,200
+P3S0200,LE04,Oxydation,0,200
+P3S0200,LE04,Plusieur Spark,0,200
+P3S0200,LE04,Porosité,0,200
+P3S0200,LE04,probleme de Métrage,0,200
+P3S0200,LE04,Problème de strie,0,200
+P3S0200,LE04,probleme OF,0,200
+P3S0200,LE04,pvc FT3B1 au lieu FT3A1,0,200
+P3S0200,LE04,Resistance hors tolerance,0,200
+P3S0200,LE04,SANS BOUT,0,200
+P3S0200,LE04,Sans Rapprot,6,200
+P3S0200,LE04,Soudure avec rapport zéro défaut,0,200
+P3S0200,LE04,Touché Par Grapin,0,200
+P3S0200,LE04,Trancannage,0,200
+P3S0200,LE04,variation couleur,0,200
+P3S0250,LE02,Aspect,0,250
+P3S0250,LE02,Centrage,0,250
+P3S0250,LE02,conipack cassé,0,250
+P3S0250,LE02,Diametre Exterieur hors tolerance,2,250
+P3S0250,LE02,Fausse declaration de soudure,2,250
+P3S0250,LE02,Frottement,0,250
+P3S0250,LE02,Intersetice - PVC Bleeding,4,250
+P3S0250,LE02,Les Grains,0,250
+P3S0250,LE02,Oxydation,0,250
+P3S0250,LE02,Plusieur Spark,0,250
+P3S0250,LE02,Porosité,0,250
+P3S0250,LE02,probleme de Métrage,0,250
+P3S0250,LE02,Problème de strie,0,250
+P3S0250,LE02,probleme OF,0,250
+P3S0250,LE02,pvc FT3B1 au lieu FT3A1,0,250
+P3S0250,LE02,Resistance hors tolerance,0,250
+P3S0250,LE02,SANS BOUT,1,250
+P3S0250,LE02,Sans Rapprot,5,250
+P3S0250,LE02,Soudure avec rapport zéro défaut,0,250
+P3S0250,LE02,Touché Par Grapin,1,250
+P3S0250,LE02,Trancannage,12,250
+P3S0250,LE02,variation couleur,0,250
+P3S0250,LE03,Aspect,0,250
+P3S0250,LE03,Centrage,0,250
+P3S0250,LE03,conipack cassé,0,250
+P3S0250,LE03,Diametre Exterieur hors tolerance,1,250
+P3S0250,LE03,Fausse declaration de soudure,2,250
+P3S0250,LE03,Frottement,0,250
+P3S0250,LE03,Intersetice - PVC Bleeding,0,250
+P3S0250,LE03,Les Grains,0,250
+P3S0250,LE03,Oxydation,0,250
+P3S0250,LE03,Plusieur Spark,0,250
+P3S0250,LE03,Porosité,0,250
+P3S0250,LE03,probleme de Métrage,1,250
+P3S0250,LE03,Problème de strie,0,250
+P3S0250,LE03,probleme OF,0,250
+P3S0250,LE03,pvc FT3B1 au lieu FT3A1,0,250
+P3S0250,LE03,Resistance hors tolerance,0,250
+P3S0250,LE03,SANS BOUT,0,250
+P3S0250,LE03,Sans Rapprot,2,250
+P3S0250,LE03,Soudure avec rapport zéro défaut,0,250
+P3S0250,LE03,Touché Par Grapin,0,250
+P3S0250,LE03,Trancannage,1,250
+P3S0250,LE03,variation couleur,0,250
+P3S0300,LE02,Aspect,0,300
+P3S0300,LE02,Centrage,0,300
+P3S0300,LE02,conipack cassé,0,300
+P3S0300,LE02,Diametre Exterieur hors tolerance,0,300
+P3S0300,LE02,Fausse declaration de soudure,0,300
+P3S0300,LE02,Frottement,0,300
+P3S0300,LE02,Intersetice - PVC Bleeding,0,300
+P3S0300,LE02,Les Grains,0,300
+P3S0300,LE02,Oxydation,0,300
+P3S0300,LE02,Plusieur Spark,0,300
+P3S0300,LE02,Porosité,0,300
+P3S0300,LE02,probleme de Métrage,0,300
+P3S0300,LE02,Problème de strie,0,300
+P3S0300,LE02,probleme OF,0,300
+P3S0300,LE02,pvc FT3B1 au lieu FT3A1,0,300
+P3S0300,LE02,Resistance hors tolerance,0,300
+P3S0300,LE02,SANS BOUT,0,300
+P3S0300,LE02,Sans Rapprot,4,300
+P3S0300,LE02,Soudure avec rapport zéro défaut,0,300
+P3S0300,LE02,Touché Par Grapin,0,300
+P3S0300,LE02,Trancannage,0,300
+P3S0300,LE02,variation couleur,0,300
+P3S0300,LE03,Aspect,2,300
+P3S0300,LE03,Centrage,0,300
+P3S0300,LE03,conipack cassé,0,300
+P3S0300,LE03,Diametre Exterieur hors tolerance,4,300
+P3S0300,LE03,Fausse declaration de soudure,1,300
+P3S0300,LE03,Frottement,0,300
+P3S0300,LE03,Intersetice - PVC Bleeding,0,300
+P3S0300,LE03,Les Grains,0,300
+P3S0300,LE03,Oxydation,0,300
+P3S0300,LE03,Plusieur Spark,0,300
+P3S0300,LE03,Porosité,0,300
+P3S0300,LE03,probleme de Métrage,1,300
+P3S0300,LE03,Problème de strie,0,300
+P3S0300,LE03,probleme OF,0,300
+P3S0300,LE03,pvc FT3B1 au lieu FT3A1,0,300
+P3S0300,LE03,Resistance hors tolerance,0,300
+P3S0300,LE03,SANS BOUT,0,300
+P3S0300,LE03,Sans Rapprot,1,300
+P3S0300,LE03,Soudure avec rapport zéro défaut,0,300
+P3S0300,LE03,Touché Par Grapin,0,300
+P3S0300,LE03,Trancannage,1,300
+P3S0300,LE03,variation couleur,0,300
+P3S0300,LE04,Aspect,0,300
+P3S0300,LE04,Centrage,0,300
+P3S0300,LE04,conipack cassé,0,300
+P3S0300,LE04,Diametre Exterieur hors tolerance,0,300
+P3S0300,LE04,Fausse declaration de soudure,0,300
+P3S0300,LE04,Frottement,0,300
+P3S0300,LE04,Intersetice - PVC Bleeding,0,300
+P3S0300,LE04,Les Grains,0,300
+P3S0300,LE04,Oxydation,0,300
+P3S0300,LE04,Plusieur Spark,0,300
+P3S0300,LE04,Porosité,0,300
+P3S0300,LE04,probleme de Métrage,0,300
+P3S0300,LE04,Problème de strie,0,300
+P3S0300,LE04,probleme OF,0,300
+P3S0300,LE04,pvc FT3B1 au lieu FT3A1,0,300
+P3S0300,LE04,Resistance hors tolerance,0,300
+P3S0300,LE04,SANS BOUT,0,300
+P3S0300,LE04,Sans Rapprot,1,300
+P3S0300,LE04,Soudure avec rapport zéro défaut,0,300
+P3S0300,LE04,Touché Par Grapin,0,300
+P3S0300,LE04,Trancannage,0,300
+P3S0300,LE04,variation couleur,0,300
+P3S0400,LE02,Aspect,0,400
+P3S0400,LE02,Centrage,0,400
+P3S0400,LE02,conipack cassé,0,400
+P3S0400,LE02,Diametre Exterieur hors tolerance,4,400
+P3S0400,LE02,Fausse declaration de soudure,2,400
+P3S0400,LE02,Frottement,1,400
+P3S0400,LE02,Intersetice - PVC Bleeding,0,400
+P3S0400,LE02,Les Grains,0,400
+P3S0400,LE02,Oxydation,0,400
+P3S0400,LE02,Plusieur Spark,0,400
+P3S0400,LE02,Porosité,0,400
+P3S0400,LE02,probleme de Métrage,0,400
+P3S0400,LE02,Problème de strie,0,400
+P3S0400,LE02,probleme OF,0,400
+P3S0400,LE02,pvc FT3B1 au lieu FT3A1,0,400
+P3S0400,LE02,Resistance hors tolerance,0,400
+P3S0400,LE02,SANS BOUT,0,400
+P3S0400,LE02,Sans Rapprot,23,400
+P3S0400,LE02,Soudure avec rapport zéro défaut,1,400
+P3S0400,LE02,Touché Par Grapin,6,400
+P3S0400,LE02,Trancannage,12,400
+P3S0400,LE02,variation couleur,2,400
+P3S0400,LE03,Aspect,0,400
+P3S0400,LE03,Centrage,0,400
+P3S0400,LE03,conipack cassé,0,400
+P3S0400,LE03,Diametre Exterieur hors tolerance,0,400
+P3S0400,LE03,Fausse declaration de soudure,0,400
+P3S0400,LE03,Frottement,0,400
+P3S0400,LE03,Intersetice - PVC Bleeding,0,400
+P3S0400,LE03,Les Grains,1,400
+P3S0400,LE03,Oxydation,0,400
+P3S0400,LE03,Plusieur Spark,0,400
+P3S0400,LE03,Porosité,0,400
+P3S0400,LE03,probleme de Métrage,0,400
+P3S0400,LE03,Problème de strie,0,400
+P3S0400,LE03,probleme OF,0,400
+P3S0400,LE03,pvc FT3B1 au lieu FT3A1,0,400
+P3S0400,LE03,Resistance hors tolerance,0,400
+P3S0400,LE03,SANS BOUT,0,400
+P3S0400,LE03,Sans Rapprot,0,400
+P3S0400,LE03,Soudure avec rapport zéro défaut,0,400
+P3S0400,LE03,Touché Par Grapin,0,400
+P3S0400,LE03,Trancannage,0,400
+P3S0400,LE03,variation couleur,0,400
+P3S0500,LE02,Aspect,0,500
+P3S0500,LE02,Centrage,0,500
+P3S0500,LE02,conipack cassé,1,500
+P3S0500,LE02,Diametre Exterieur hors tolerance,3,500
+P3S0500,LE02,Fausse declaration de soudure,2,500
+P3S0500,LE02,Frottement,0,500
+P3S0500,LE02,Intersetice - PVC Bleeding,0,500
+P3S0500,LE02,Les Grains,0,500
+P3S0500,LE02,Oxydation,0,500
+P3S0500,LE02,Plusieur Spark,0,500
+P3S0500,LE02,Porosité,0,500
+P3S0500,LE02,probleme de Métrage,0,500
+P3S0500,LE02,Problème de strie,0,500
+P3S0500,LE02,probleme OF,0,500
+P3S0500,LE02,pvc FT3B1 au lieu FT3A1,0,500
+P3S0500,LE02,Resistance hors tolerance,0,500
+P3S0500,LE02,SANS BOUT,0,500
+P3S0500,LE02,Sans Rapprot,9,500
+P3S0500,LE02,Soudure avec rapport zéro défaut,0,500
+P3S0500,LE02,Touché Par Grapin,0,500
+P3S0500,LE02,Trancannage,7,500
+P3S0500,LE02,variation couleur,2,500
+P3S0500,LE03,Aspect,0,500
+P3S0500,LE03,Centrage,0,500
+P3S0500,LE03,conipack cassé,0,500
+P3S0500,LE03,Diametre Exterieur hors tolerance,0,500
+P3S0500,LE03,Fausse declaration de soudure,2,500
+P3S0500,LE03,Frottement,0,500
+P3S0500,LE03,Intersetice - PVC Bleeding,0,500
+P3S0500,LE03,Les Grains,0,500
+P3S0500,LE03,Oxydation,0,500
+P3S0500,LE03,Plusieur Spark,0,500
+P3S0500,LE03,Porosité,0,500
+P3S0500,LE03,probleme de Métrage,0,500
+P3S0500,LE03,Problème de strie,0,500
+P3S0500,LE03,probleme OF,7,500
+P3S0500,LE03,pvc FT3B1 au lieu FT3A1,0,500
+P3S0500,LE03,Resistance hors tolerance,0,500
+P3S0500,LE03,SANS BOUT,0,500
+P3S0500,LE03,Sans Rapprot,0,500
+P3S0500,LE03,Soudure avec rapport zéro défaut,0,500
+P3S0500,LE03,Touché Par Grapin,0,500
+P3S0500,LE03,Trancannage,2,500
+P3S0500,LE03,variation couleur,0,500
+P3S0600,LE02,Aspect,0,600
+P3S0600,LE02,Centrage,0,600
+P3S0600,LE02,conipack cassé,0,600
+P3S0600,LE02,Diametre Exterieur hors tolerance,0,600
+P3S0600,LE02,Fausse declaration de soudure,0,600
+P3S0600,LE02,Frottement,0,600
+P3S0600,LE02,Intersetice - PVC Bleeding,0,600
+P3S0600,LE02,Les Grains,0,600
+P3S0600,LE02,Oxydation,0,600
+P3S0600,LE02,Plusieur Spark,0,600
+P3S0600,LE02,Porosité,0,600
+P3S0600,LE02,probleme de Métrage,0,600
+P3S0600,LE02,Problème de strie,0,600
+P3S0600,LE02,probleme OF,0,600
+P3S0600,LE02,pvc FT3B1 au lieu FT3A1,0,600
+P3S0600,LE02,Resistance hors tolerance,0,600
+P3S0600,LE02,SANS BOUT,0,600
+P3S0600,LE02,Sans Rapprot,2,600
+P3S0600,LE02,Soudure avec rapport zéro défaut,0,600
+P3S0600,LE02,Touché Par Grapin,0,600
+P3S0600,LE02,Trancannage,2,600
+P3S0600,LE02,variation couleur,0,600
+P3S0600,LE03,Aspect,0,600
+P3S0600,LE03,Centrage,0,600
+P3S0600,LE03,conipack cassé,0,600
+P3S0600,LE03,Diametre Exterieur hors tolerance,0,600
+P3S0600,LE03,Fausse declaration de soudure,2,600
+P3S0600,LE03,Frottement,1,600
+P3S0600,LE03,Intersetice - PVC Bleeding,0,600
+P3S0600,LE03,Les Grains,0,600
+P3S0600,LE03,Oxydation,0,600
+P3S0600,LE03,Plusieur Spark,0,600
+P3S0600,LE03,Porosité,0,600
+P3S0600,LE03,probleme de Métrage,0,600
+P3S0600,LE03,Problème de strie,0,600
+P3S0600,LE03,probleme OF,0,600
+P3S0600,LE03,pvc FT3B1 au lieu FT3A1,0,600
+P3S0600,LE03,Resistance hors tolerance,0,600
+P3S0600,LE03,SANS BOUT,0,600
+P3S0600,LE03,Sans Rapprot,0,600
+P3S0600,LE03,Soudure avec rapport zéro défaut,0,600
+P3S0600,LE03,Touché Par Grapin,0,600
+P3S0600,LE03,Trancannage,0,600
+P3S0600,LE03,variation couleur,0,600
+P3S0700,LE02,Aspect,0,700
+P3S0700,LE02,Centrage,0,700
+P3S0700,LE02,conipack cassé,0,700
+P3S0700,LE02,Diametre Exterieur hors tolerance,0,700
+P3S0700,LE02,Fausse declaration de soudure,0,700
+P3S0700,LE02,Frottement,0,700
+P3S0700,LE02,Intersetice - PVC Bleeding,0,700
+P3S0700,LE02,Les Grains,0,700
+P3S0700,LE02,Oxydation,0,700
+P3S0700,LE02,Plusieur Spark,0,700
+P3S0700,LE02,Porosité,0,700
+P3S0700,LE02,probleme de Métrage,0,700
+P3S0700,LE02,Problème de strie,0,700
+P3S0700,LE02,probleme OF,0,700
+P3S0700,LE02,pvc FT3B1 au lieu FT3A1,0,700
+P3S0700,LE02,Resistance hors tolerance,0,700
+P3S0700,LE02,SANS BOUT,0,700
+P3S0700,LE02,Sans Rapprot,1,700
+P3S0700,LE02,Soudure avec rapport zéro défaut,0,700
+P3S0700,LE02,Touché Par Grapin,0,700
+P3S0700,LE02,Trancannage,0,700
+P3S0700,LE02,variation couleur,0,700
